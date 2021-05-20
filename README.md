@@ -1,4 +1,5 @@
 ### Hi there 👋 You are seeing a learner profile!
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
 
 <!--
 **techie-pragya/techie-pragya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
