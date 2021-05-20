@@ -84,6 +84,6 @@
 
 <br>
 
- ![Made](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000) ![with](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff) love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
+ ![Made](https://img.shields.io/badge/-Made-red?style=for-the-badge&logo=Love&logoColor=000000) ![with](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff) love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
   
 <hr>
