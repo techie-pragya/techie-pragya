@@ -1,9 +1,9 @@
-   ### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
+###                  Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
 
- 
-<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
+<div align="center"> 
+<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 /><br/>.
 <b>Pragya Sahu</b>
-  
+  </div>
 <br>
 
 <div align="center">
