@@ -1,9 +1,9 @@
+   ### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
 
-<div align="center">
-     ### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
+ 
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
 <b>Pragya Sahu</b>
-  </div>
+  
 <br>
 
 <div align="center">
@@ -53,11 +53,15 @@
 <br>
 <img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width=200 height=200 />
 <br>  
+## About Me:
 
-## 🔭 I’m currently working on Android and WEB development
-## 🌱 I’m currently learning flutter basics
-## 👯 I’m looking to collaborate on Open source Project
-## ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
+
+
+
+- 🔭 I’m currently working on Android and WEB development
+- 🌱 I’m currently learning flutter basics
+- 👯 I’m looking to collaborate on Open source Project
+- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
 
 <br>
 
