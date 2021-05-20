@@ -1,8 +1,9 @@
 ### Hi githubian! 👋 You are seeing a learner profile!
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
-### *Pragya Sahu*
+<b>Pragya Sahu</b>
 <br>
-
+<hr>
+### Reach me out! <img align="center" src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=30 height=30 />
 <div align="center">
 <a href="https://www.linkedin.com/in/pragya-sahu-09265a1a7/">
   <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
