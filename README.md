@@ -48,7 +48,7 @@
 </div>
 <br>
 <br>
-<img align="right" src="https://gph.is/g/ZYmdBq3"  width="200" height="200"/>
+
 <br>  
 
 - 🔭 I’m currently working on Android and WEB development
@@ -56,7 +56,7 @@
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about code
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />.......
+- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
 
 <br>
 ## <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
@@ -83,6 +83,6 @@
 
 <br>
 <div align="center">
- Made with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
+ ![Made] with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
   </div>
 <hr>
