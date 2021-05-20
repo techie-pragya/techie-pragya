@@ -4,8 +4,8 @@
 <br>
 
 
-<p>Reach me out! <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /></p>
-  <img align="right" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" height="100"/>
+<p><b>Reach me out!</b> <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /></p>
+  
 <br>
 
 
@@ -81,6 +81,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
+
+
+
 
 <br>
 
