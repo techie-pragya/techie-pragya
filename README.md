@@ -84,6 +84,6 @@
 
 <br>
 
- ![Made](https://img.shields.io/badge/-Made-red?style=for-the-badge&logo=Love&logoColor=000000) ![with](https://img.shields.io/badge/-with-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff) ![love](https://img.shields.io/badge/-love-red?style=for-the-badge&logo=Love&logoColor=000000) <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> ![by](https://img.shields.io/badge/-by-grey?style=for-the-badge&logo=Github&logoColor=ffffff) ![Pragya](https://img.shields.io/badge/-Pragya-cyan?style=for-the-badge&logo=Pragya&logoColor=000000)
+ ![Made](https://img.shields.io/badge/-Made-red?style=for-the-badge&logo=Love&logoColor=000000) ![with](https://img.shields.io/badge/-with-blue?style=for-the-badge&logo=hh&logoColor=ffffff) ![love](https://img.shields.io/badge/-love-red?style=for-the-badge&logo=Love&logoColor=000000) <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> ![by](https://img.shields.io/badge/-by-grey?style=for-the-badge&logo=arrow&logoColor=ffffff) ![Pragya](https://img.shields.io/badge/-Pragya-cyan?style=for-the-badge&logo=Pragya&logoColor=000000)
   
 <hr>
