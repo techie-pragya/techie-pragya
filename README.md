@@ -1,6 +1,48 @@
 ### Hi there 👋 You are seeing a learner profile!
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
 
+<div align="center">
+<a href="https://www.linkedin.com/in/pragya-sahu-09265a1a7/">
+  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:pragyasahu04022000@gmail.com">
+  <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/creative_pragya/">
+  <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
+
+
+<a href="https://www.codechef.com/users/techie_pragya">
+  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
+
+
+<a href="https://stackoverflow.com/users/story/15980930">
+  <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/Techie_pragya">
+  <img align="center" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>  
+<br>  
+<br>  
+<div align="center">
+
+## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
+</div>
+<br>
+<br>
+<img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  width="200" height="200"/>
+<br>  
+
 <!--
 **techie-pragya/techie-pragya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
