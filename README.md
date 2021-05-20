@@ -1,11 +1,14 @@
-### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
+
+<div align="center">
+     ### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
 <b>Pragya Sahu</b>
+  </div>
 <br>
 
-
+<div align="center">
 <p><b>Reach me out!</b> <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /></p>
-  
+  </div>
 <br>
 
 
@@ -44,19 +47,17 @@
 <br>  
 <div align="center">
 
-## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
+## Show some <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 />, Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
 </div>
 <br>
 <br>
 <img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width=200 height=200 />
 <br>  
 
-- 🔭 I’m currently working on Android and WEB development
-- 🌱 I’m currently learning flutter basics
-- 👯 I’m looking to collaborate on Open source
-- 💬 Ask me about code
-- 😄 Pronouns: she/her
-- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
+## 🔭 I’m currently working on Android and WEB development
+## 🌱 I’m currently learning flutter basics
+## 👯 I’m looking to collaborate on Open source Project
+## ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
 
 <br>
 
@@ -87,6 +88,4 @@
 
 <br>
 
- ![Made](https://img.shields.io/badge/-Made-red?style=for-the-badge&logo=Love&logoColor=000000) ![with](https://img.shields.io/badge/-with-blue?style=for-the-badge&logo=hh&logoColor=ffffff) ![love](https://img.shields.io/badge/-love-red?style=for-the-badge&logo=Love&logoColor=000000) <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> ![by](https://img.shields.io/badge/-by-grey?style=for-the-badge&logo=arrow&logoColor=ffffff) ![Pragya](https://img.shields.io/badge/-Pragya-cyan?style=for-the-badge&logo=Pragya&logoColor=000000)
-  
-<hr>
+### Made with <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
