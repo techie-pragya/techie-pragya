@@ -1,11 +1,13 @@
-### Hi githubian! 👋 You are seeing a learner profile!
+### Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
 <b>Pragya Sahu</b>
 <br>
 
-<div align="center">
-## Reach me out! <img align="right" src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=70 height=700 />
-  </div>
+
+Reach me out! <img align="right" src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=1000 />
+  <img align="right" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" height="100"/>
+<br>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pragya-sahu-09265a1a7/">
@@ -42,7 +44,8 @@
 <br>  
 <div align="center">
 
-## Show some ❤️ , Go star some of my repos!!
+## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
+</div>
 <br>
 <br>
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="200" height="200"/>
