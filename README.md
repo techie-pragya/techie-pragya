@@ -48,23 +48,18 @@
 </div>
 <br>
 <br>
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="200" height="200"/>
+<img align="right" src="https://gph.is/g/ZYmdBq3"  width="200" height="200"/>
 <br>  
 
-<!--
-**techie-pragya/techie-pragya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on Android and WEB development
 - 🌱 I’m currently learning flutter basics
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about code
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/5pT46DBoOn3c1slNHM/giphy.gif" width="30px" />.......
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />.......
 
 <br>
-## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 
 
@@ -72,8 +67,6 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
 <br>
 <br>
-![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=Unity&logoColor=ffffff)
-
 
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![mySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL&logoColor=ffffff)
@@ -84,15 +77,11 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/-Dart-cyan?style=for-the-badge&logo=Dart&logoColor=000000)
-![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=C%20Sharp&logoColor=ffffff)
-
 
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
 
-![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
-<hr>
+<br>
 <div align="center">
  Made with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
   </div>
