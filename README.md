@@ -1,5 +1,7 @@
-### Hi there 👋 You are seeing a learner profile!
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
+### Hi githubian! 👋 You are seeing a learner profile!
+<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 />
+### *Pragya Sahu*
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pragya-sahu-09265a1a7/">
@@ -57,3 +59,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...you can fork and star my repositories.......
 
+<br>
+<hr>
+### Made with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
