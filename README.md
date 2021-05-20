@@ -48,7 +48,7 @@
 </div>
 <br>
 <br>
-
+<img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width=200 height=200 />
 <br>  
 
 - 🔭 I’m currently working on Android and WEB development
@@ -59,7 +59,8 @@
 - ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/PoE9ZsBYhD4uYYH0ju/giphy.gif" width="40px" />
 
 <br>
-## <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+
+## <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="50px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 
 
@@ -82,7 +83,7 @@
 ![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
 
 <br>
-<div align="center">
- ![Made] with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
-  </div>
+
+ ![Made](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000) ![with](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff) love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
+  
 <hr>
