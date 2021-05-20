@@ -1,4 +1,4 @@
-###                  Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
+   ###                  Hi githubian!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> You are seeing a learner profile!
 
 <div align="center"> 
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100 /><br/>.
@@ -7,7 +7,8 @@
 <br>
 
 <div align="center">
-<p><b>Reach me out!</b> <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /></p>
+   <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /><br/>
+<p><b>Reach me out!</b></p>
   </div>
 <br>
 
