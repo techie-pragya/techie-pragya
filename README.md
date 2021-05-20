@@ -4,7 +4,7 @@
 <br>
 
 
-Reach me out! <img align="right" src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=1000 />
+<p>Reach me out! <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width=100 height=100 /></p>
   <img align="right" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" height="100"/>
 <br>
 
@@ -56,18 +56,44 @@ Reach me out! <img align="right" src="https://media.giphy.com/media/hULIWsDRiNV2
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Android and flutter development
-- 🌱 I’m currently learning ...flutter
-- 👯 I’m looking to collaborate on ..open source
-- 🤔 I’m looking for help with ...flutter
-- 💬 Ask me about ...code
-- 📫 How to reach me: ...https://www.linkedin.com/in/pragya-sahu-09265a1a7/
+- 🔭 I’m currently working on Android and WEB development
+- 🌱 I’m currently learning flutter basics
+- 👯 I’m looking to collaborate on Open source
+- 💬 Ask me about code
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...you can fork and star my repositories.......
+- ⚡ Fun fact:You have visited my profile,Now fork and star my repositories<img src="https://media.giphy.com/media/5pT46DBoOn3c1slNHM/giphy.gif" width="30px" />.......
 
 <br>
+## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+
+
+
+![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
+<br>
+<br>
+![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=Unity&logoColor=ffffff)
+
+
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=ffffff)
+![mySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL&logoColor=ffffff)
+
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000)
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-cyan?style=for-the-badge&logo=Dart&logoColor=000000)
+![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=C%20Sharp&logoColor=ffffff)
+
+
+![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
+
+![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
 <hr>
 <div align="center">
-## Made with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
+ Made with love <img align="center" src="https://media.giphy.com/media/Z63IGkT6bmiEg3vo8o/giphy.gif" width=50 height=50 /> by Pragya
   </div>
 <hr>
